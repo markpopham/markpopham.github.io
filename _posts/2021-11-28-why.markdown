@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "why"
+date:   2021-11-28 14:39:34 -0500
+categories: blog
+summary: ""
+---
+## In March I bought a computer.
+
+	It was the first one I'd bought in almost a decade. Despite working on computers, in a field (commercial visual effects) that is quasi-technical, I didn't have any big urge to buy a new computer for myself, namely because a) almost all of my "computing" on my personal time was just web browsing and file management, and b) what little I did need to do I could do using my computer at work. I had been in the Mac ecosystem for my entire adult life, and had become increasingly irritated by it - that I found my ability to do things slowly whittled down, my filesystems less opaque, every year - but hadn't really though much about alternatives.
+	But as the spring gave way to the summer I decided I needed a laptop. The previous summer I had spent a lot of mornings with my daughter at our local playground. My job at that point was very client-reactive - often I would spend hours waiting for comments, and so I would routinely take my daughter to a playground, wait until I heard about
